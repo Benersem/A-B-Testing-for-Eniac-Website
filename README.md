@@ -6,8 +6,7 @@ This project analyzes different versions of a "SHOP NOW" button on Eniac's homep
 ## 📂 Project Structure
 ```
 📂 A-B-Testing-for-Eniac-Website
-│── 📂 notebooks/    
-│── 📂 src/             
+│── 📂 notebooks/            
 │── 📂 data/            
 │── 📂 results/         
 │── .gitignore          
