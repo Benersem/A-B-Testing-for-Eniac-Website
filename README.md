@@ -6,13 +6,13 @@ This project analyzes different versions of a "SHOP NOW" button on Eniac's homep
 ## 📂 Project Structure
 ```
 📂 ab_testing_eniac
-│── 📂 notebooks/       # Jupyter notebooks with analysis
-│── 📂 src/             # Python scripts for data processing
-│── 📂 data/            # Sample dataset (if applicable)
-│── 📂 results/         # Findings, visualizations, and conclusions
-│── .gitignore          # Ignored files (e.g., datasets, cache)
-│── README.md           # Project documentation
-│── requirements.txt    # Dependencies for the project
+│── 📂 notebooks/    
+│── 📂 src/             
+│── 📂 data/            
+│── 📂 results/         
+│── .gitignore          
+│── README.md           
+│── requirements.txt    
 ```
 
 ## 🔍 Problem Statement
